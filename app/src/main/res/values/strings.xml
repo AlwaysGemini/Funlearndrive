@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fun learn drive</string>
+    <string name="title_bespeak">预约学习</string>
+    <string name="title_smile">考前减压</string>
+    <string name="title_evaluate">评价教练</string>
+    <string name="title_video">教学视频</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bespeak"
+        android:icon="@drawable/bespeak"
+        android:title="@string/title_bespeak" />
+
+    <item
+        android:id="@+id/navigation_smile"
+        android:icon="@drawable/smile"
+        android:title="@string/title_smile" />
+
+    <item
+        android:id="@+id/navigation_evaluate"
+        android:icon="@drawable/evaluate"
+        android:title="@string/title_evaluate" />
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/video"
+        android:title="@string/title_video"/>
+
+</menu>
